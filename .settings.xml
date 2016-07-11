@@ -22,17 +22,6 @@
 						<enabled>true</enabled>
 					</snapshots>
 					<releases>
-						<enabled>false</enabled>
-					</releases>
-				</repository>
-				<repository>
-					<id>fabric8-releases-nexus</id>
-					<name>Fabric8 Nexus Test Repo</name>
-					<url>http://nexus.vagrant.f8</url>
-					<snapshots>
-						<enabled>false</enabled>
-					</snapshots>
-					<releases>
 						<enabled>true</enabled>
 					</releases>
 				</repository>
