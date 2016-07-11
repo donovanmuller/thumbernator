@@ -15,8 +15,7 @@
 	<version>1.0.0.BUILD-SNAPSHOT</version>
 
 	<scm>
-		<connection>scm:git:https@github.com/donovanmuller/thumbernator.git</connection>
-		<!-- TODO check if tag works -->
+		<connection>scm:git:git@github.com/donovanmuller/thumbernator.git</connection>
 		<developerConnection>scm:git:ssh://github.com/donovanmuller/thumbernator.git</developerConnection>
 		<url>https://github.com/donovanmuller/thumbernator</url>
 		<tag>HEAD</tag>
